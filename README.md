@@ -124,4 +124,4 @@ In conclusion, we have developed and computationally validated a **robust dynami
 ## **6. Code Repository**
 
 The Python (NumPy/Matplotlib) code used to generate these simulations and plots is available in this repository:
-*(Optional: You can link directly to your .ipynb file here if you want)*
+[*](https://github.com/geromedina-sys/Quantum-State-Decoherence-Map/blob/main/Codes.ipynb)
